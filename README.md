@@ -87,12 +87,13 @@ A web-based application for car dealers/fleet managers to manage car inventory u
 
 ---
 
-💼 Career Intersts
+### ✨ **Career Interests**
 
-Open to full-time roles as:
-- Java Developer
-- Full Stack Developer
-- SQL Developer
+**Open to Full-time Roles as:**
+
+- **Java Developer**  
+- **Full Stack Developer**  
+- **SQL Developer**
 
 ---
 
